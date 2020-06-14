@@ -1,0 +1,152 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#bar {
+  background-color: cadetblue;
+  width: 100%;
+  height: 40px;
+  padding-top: 5px;
+}
+a {
+  color: black;
+  text-decoration: none;
+  display: inline;
+}
+a:hover {
+  color: teal;
+}
+#nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.navbar {
+  background-image: linear-gradient(to right, white, white);
+  padding: 0 !important;
+}
+.navbar-brand {
+  font-size: 40px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding-left: 50px;
+  color: teal;
+}
+.navbar-nav li {
+  padding: 0 5px;
+  padding-right: 70px;
+}
+.navbar-nav li a {
+  color: cadetblue !important;
+  font-weight: 600;
+  float: right;
+  text-align: left;
+}
+.navbar-toggler {
+  outline: none !important;
+}
+#img {
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.col-md-12 {
+  padding-top: 70px;
+  text-align: center;
+  font-size: 15px;
+}
+#our {
+  color: cadetblue;
+}
+#round
+{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+h5
+{
+    text-align: center;
+    color: teal;
+    padding-top: 15px;
+    padding-right: 75px;
+
+}
+h6{
+    text-align: center;
+    color: cadetblue;
+    padding-right: 75px;
+}
+#pp
+{
+    text-align: center;
+    padding-right: 50px;
+}
+#sat
+{
+    padding-top: 70px;
+    color: teal;
+}
+#coma
+{
+    height: 50px;
+    width: 50px;
+}
+#client
+{
+    text-align: center;
+}
+.fa
+{
+    padding-top: 10px;
+    color: rgb(161, 159, 159);
+    font-size: 50px;
+}
+h3{
+    color: teal;
+}
+#zee
+{
+    color: cadetblue;
+    padding-left: 50px;
+}
+#sub
+{
+    padding-top: 20px;
+    width: 100%;
+    background-color: cadetblue;
+}
+#white
+{
+    color: black;
+    float: left;
+}
+#justify
+{
+    color: white;
+    text-align: justify;
+    font-size: 15px;
+}
+.col-md-7
+{
+    padding-left: 150px;
+}
+.btn
+{
+    width: 200px;
+    margin-top: 5px;
+}
+#usr
+{
+    margin-top: 30px;
+    height: 35px;
+    width: 200px;
+}
+#last
+{
+    width: 100%;
+    background-color: teal;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
